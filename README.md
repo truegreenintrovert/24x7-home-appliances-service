@@ -1,6 +1,6 @@
 # 🏠 24x7 Home Appliances Service
 
-![React](https://img.shields.io/badge/React-19-blue)
+![React](https://img.shields.io/badge/React-24-blue)
 ![Vite](https://img.shields.io/badge/Vite-Fast-purple)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
